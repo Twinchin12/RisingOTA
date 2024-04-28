@@ -1,28 +1,28 @@
 {
-        "response": [
-                {
-                        "maintainer": "vikas Yaduvanshi",
-                        "oem": "Nothing",
-                        "device": "Nothing Phone (1)",
-                        "filename": "risingOS-v1.3.1-Damascus-RELEASE-202308261241-Spacewar-GAPPS-OFFICIAL.zip",
-                        "download": "https://master.dl.sourceforge.net/project/risingos-np1/risingOS-v1.3.1-Damascus-RELEASE-202308261241-Spacewar-GAPPS-OFFICIAL.zip",
-                        "timestamp": 1693053704,
-                        "md5": "edc7a38f9bdf34ab172a5f79dd619f4e",
-                        "sha256": "1d076d81e3818adc35db9e7a170491ac88644cdec2c654d16c2a78a0f6850d64",
-                        "size": 2408353001,
-                        "version": "v1.3-Damascus",
-                        "buildtype": "Monthly",
-                        "forum": "",
-                        "gapps": "",
-                        "firmware": "",
-                        "modem": "",
-                        "bootloader": "",
-                        "recovery": "",
-                        "paypal": "https://www.paypal.me/vikasyaduvanshii",
-                        "telegram": "https://t.me/ricedroidnothingphone",
-                        "dt": "",
-                        "common-dt": "",
-                        "kernel": ""
-                }
-        ]
+	"response": [
+		{
+			"maintainer": "ZIZZYBOI",
+			"oem": "Nothing",
+			"device": "Nothing Phone (1)",
+			"filename": "RisingOS-2.1-RELEASE-20240428-GAPPS-OFFICIAL-Spacewar.zip",
+			"download": "https://sourceforge.net/projects/crdroid/files/Spacewar/GAPPS.x/RisingOS-2.1-RELEASE-20240428-GAPPS-OFFICIAL-Spacewar.zip/download",
+			"timestamp": 1714293199,
+			"md5": "5715597712d9806cba7f4da81b4353d6",
+			"sha256": "1374c55fca78a3f455bde3f7380cb653bd76de3b98c11d56a8999ee253474399",
+			"size": 2305406362,
+			"version": "GAPPS.GAPPS",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+                        "paypal": "https://paypal.me/zizzyboi?country.x=CA&locale.x=en_US",
+                        "telegram": "https://t.me/zizzynp1roms",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
 }
